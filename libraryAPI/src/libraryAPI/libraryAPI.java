@@ -6,5 +6,9 @@ public class libraryAPI {
 		// TODO Auto-generated method stub
 
 	}
+	public libraryAPI(String apiHead,String terms, String apiTail)
+	{
+		
+	}
 
 }
